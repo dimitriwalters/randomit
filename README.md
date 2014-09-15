@@ -13,6 +13,8 @@ npm install randomit
 ```js
 var randomit = require('randomit');
 
+randomit.generateNumber();		// number between 1 to 10
+randomit.generateNumber(10);	// number between 1 to 10
 randomit.generateNumber(1, 10);	// number between 1 to 10
 ```
 
