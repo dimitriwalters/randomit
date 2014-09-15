@@ -1,6 +1,6 @@
 {
   "name": "randomit",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Generate random numbers and other random data",
   "main": "index.js",
   "scripts": {
@@ -14,10 +14,9 @@
     "random"
   ],
   "author": "Dimitri Walters <me@dimi.io> (http://dimi.io/)",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/DimitriWalters/randomit/issues"
   },
-  "homepage": "https://github.com/DimitriWalters/randomit",
-  "license": "MIT"
+  "homepage": "https://github.com/DimitriWalters/randomit"
 }
