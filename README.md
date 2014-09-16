@@ -1,4 +1,4 @@
-# Randomit
+# randomit
 
 A small library to generate random numbers in various situations along with other pieces of data which needs to be randomized.
 
