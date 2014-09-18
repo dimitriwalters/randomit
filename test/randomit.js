@@ -1,5 +1,5 @@
 var should = require('chai').should(),
-    randomit = require('../index'),
+    randomit = require('../randomit.min.js'),
     generateNumber = randomit.generateNumber;
 
 describe('#generateNumber', function() {

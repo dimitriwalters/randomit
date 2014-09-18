@@ -2,7 +2,7 @@
   "name": "randomit",
   "version": "0.3.0",
   "description": "Generate random numbers and other random data",
-  "main": "index.js",
+  "main": "randomit.min.js",
   "scripts": {
     "test": "make test"
   },

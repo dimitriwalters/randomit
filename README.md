@@ -1,6 +1,6 @@
 # randomit
 
-A small library to generate random numbers in various situations along with other pieces of data which needs to be randomized.
+A small javascript library to generate random numbers in various situations along with other pieces of data which needs to be randomized.
 
 ## Installation
 
@@ -8,14 +8,21 @@ A small library to generate random numbers in various situations along with othe
 npm install randomit
 ```
 
+or
+
+```html
+<script src="http://dimitriwalters.github.io/randomit/randomit.min.js"></script>
+```
+
 ## Usage
 
 ```js
 var randomit = require('randomit');
 
-randomit.generateNumber();		// number between 1 to 10
-randomit.generateNumber(10);	// number between 1 to 10
-randomit.generateNumber(1, 10);	// number between 1 to 10
+randomit.generateNumber();          // number between 1 to 10
+randomit.generateNumber(10);        // number between 1 to 10
+randomit.generateNumber(1, 10);     // number between 1 to 10
+randomit.generateNumber(1, 10, 3);  // array with 3 numbers between 1 to 10
 ```
 
 ## License
