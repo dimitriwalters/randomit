@@ -1,0 +1,28 @@
+{
+  "name": "randomit",
+  "version": "0.3.0",
+  "description": "Generate random numbers and other random data",
+  "main": "randomit.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DimitriWalters/randomit.git"
+  },
+  "keywords": [
+    "random",
+    "number",
+    "generator"
+  ],
+  "author": "Dimitri Walters <me@dimi.io> (http://dimi.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DimitriWalters/randomit/issues"
+  },
+  "homepage": "https://github.com/DimitriWalters/randomit",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.21.4"
+  }
+}
