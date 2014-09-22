@@ -1,6 +1,10 @@
 (function (root, randomit) {
 	if (typeof exports === 'object') {
 		module.exports = randomit();
+	} else if (typeof define === 'function' && define.amd) {
+		define([], function () {
+			return (root.randomit = randomit());
+		});
 	} else {
 		root.randomit = randomit();
 	}
