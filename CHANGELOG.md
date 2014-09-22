@@ -2,12 +2,11 @@
 
 ### 0.6.0
 
-Added support for AMD
+Added support for AMD.
 
 ### 0.5.0
 
-Added `generateNumberDigits` to generate a number based on it's digits
-Added `getRandomItem` to return a randomly selected item in an array
+Added `generateNumberDigits` to generate a number based on it's digits. Added `getRandomItem` to return a randomly selected item in an array.
 
 ### 0.4.0
 
