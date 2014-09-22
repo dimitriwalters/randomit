@@ -1,6 +1,6 @@
 {
   "name": "randomit",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Generate random numbers and other random data",
   "main": "randomit.min.js",
   "scripts": {
